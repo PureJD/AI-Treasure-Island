@@ -12,6 +12,10 @@
 - This then returns the answer from the API and represents it on screen.
 - The question and the answer are stored in a dictionary for context for the AI to continue the story whilst remembering what has already occured. 
 
+![SPACE](https://github.com/PureJD/AI-Treasure-Island/blob/main/images/1.png?raw=true)
+![SPACE](https://github.com/PureJD/AI-Treasure-Island/blob/main/images/2.png?raw=true)
+![SPACE](https://github.com/PureJD/AI-Treasure-Island/blob/main/images/3.png?raw=true)
+![SPACE](https://github.com/PureJD/AI-Treasure-Island/blob/main/images/4.png?raw=true)
 
 
 #### This program has been constructed using my GPT API Key however, you will need to generate your own key and add the key to your working enviroment using terminal commands. Please see the OpenAI guide on this for details: https://platform.openai.com/docs/quickstart?context=python.
